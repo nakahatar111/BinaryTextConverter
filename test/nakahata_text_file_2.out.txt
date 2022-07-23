@@ -1,0 +1,1 @@
+string	frog fish egg pig horse cow human ant toad goat beetle moth butterfly gnat
